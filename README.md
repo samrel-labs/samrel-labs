@@ -11,7 +11,7 @@ We are a **Venture-focused Product Studio**. Instead of building for others, we 
 ## 🛠 What We Build
 We are currently exploring and developing in these domains:
 - 🌐 **Social Ecosystems:** Reimagining digital connectivity and human interaction.
-- 💘 **Next-Gen Dating:** Building safe, ethical, and meaningful matchmaking experiences.
+- 💘 **Next-Gen Applications:** Building safe, ethical, and meaningful experiences.
 - 🎮 **Immersive Gaming:** Crafting engaging experiences that push the boundaries of fun.
 - 🏗️ **Core Frameworks:** Developing the robust, lean architectures that power our ecosystem.
 
