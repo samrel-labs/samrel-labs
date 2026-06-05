@@ -29,8 +29,8 @@ We offer **Strategic Technical Consulting** for high-stakes projects that requir
 ---
 
 ## 📬 Connect with Us
-- 🌍 **Website:** [Coming Soon]
-- 💼 **LinkedIn:** [Link to your LinkedIn Page]
-- 🐦 **X (Twitter):** [Optional Link]
+- 🌍 **Website:** [https://www.samrel.com]
+- 💼 **LinkedIn:** [https://www.linkedin.com/company/samrel]
+- 🐦 **X (Twitter):** [COMMING SOON]
 
 > "We are here to manifest our ideas for the greater good. This is just the beginning."
